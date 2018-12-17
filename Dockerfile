@@ -13,7 +13,7 @@ RUN apt-get update && apt-get install -y\
 
 RUN pip install \
       awsebcli==3.7.4 \
-      awscli==1.11.52
+      awscli==1.14.22
 
 
 
